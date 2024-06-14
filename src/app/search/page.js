@@ -1,5 +1,4 @@
-import React from 'react'
-
+import SearchComponent from "@/components/mycomponets/searchcomponent"
 const Search = () => {
   return (
     <SearchComponent placeholder="Search for something" type="textadd" />
